@@ -3,7 +3,7 @@ Welcome to the Online-Social-Media wiki!
 
 
 * images
-* videoes
+* videos
 * sign-up
 * login page
 * github
